@@ -26,3 +26,6 @@ variaveis de ambiente podem ser solcadas dire4to no render
 para fazer rewuisdição agora que dubuiu no render
 https://backexemple.onrender.com/pessoas
 npm i axios
+
+clever cloud
+create add on -> seleciona o mysql
